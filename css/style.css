@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Changa:wght@700&display=swap");
+.main-container {
+  padding: 30px 15px;
+}
+* {
+  font-family: "Changa", sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+}
+.wrapper {
+  width: 40%;
+  margin: auto;
+  background-color: #f0faf7;
+  padding: 20px 20px;
+  border-radius: 5px;
+}
+.txt {
+  line-height: 2.5;
+}
+.btn-success.focus,
+.btn-success:focus,
+.btn-success.active,
+.btn-success:active,
+.btn-success.visited,
+.btn-success:visited {
+  border-color: transparent;
+  box-shadow: none;
+}
+.btn-dark.focus,
+.btn-dark:focus,
+.btn-dark.active,
+.btn-dark:active,
+.btn-dark.visited,
+.btn-dark:visited {
+  border-color: transparent;
+  box-shadow: none;
+}
