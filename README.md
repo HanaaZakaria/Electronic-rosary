@@ -6,7 +6,7 @@ By clicking on the I am a box dedicated to each rosary, it is counted, and the p
 ## Skills :exclamation:
 1. Html
 1. Css
-1. image
+1. JavaScript
 
 ## visit site💥
 
